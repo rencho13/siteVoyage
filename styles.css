@@ -17,7 +17,6 @@ h1
 {
     font-family: 'Crete Round',serif;
     font-size: 45px;
-    
 }
 h2
 {
@@ -251,6 +250,83 @@ label
     margin-right: 10px;
     color:#777;
 }
+input
+{
+    padding:10px;
+    font-size: 20px;
+    margin-right: 20px;
+    border: 2px solid #ddd;
+    border-radius: 3px;
+}
+.button-3
+{
+    color:#fff;
+    font-size: 20px;
+    font-weight: bold;
+    padding:11px;
+    background-color: #02b8dd;
+    border-style: none;
+}
+.button-3:hover
+{
+    color:#fff;
+    background-color: #444;
+}
+
+/* FOOTER */
+
+footer
+{
+    height:260px;
+    background-color: #444;
+}
+
+footer h1
+{
+    color:#fff;
+    text-align: center;
+    padding-top: 80px;
+}
+.copyright
+{
+    text-align:center;
+    font-weight: bold;
+    padding-top:30px;
+    color: #777;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
